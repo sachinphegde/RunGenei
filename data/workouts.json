@@ -1,0 +1,48 @@
+{
+    "running": [
+      {
+        "type": "easy_run",
+        "description": "Comfortable pace run",
+        "tags": ["base", "recovery"]
+      },
+      {
+        "type": "intervals",
+        "description": "Short bursts of speed with recovery",
+        "tags": ["speed", "intensity"]
+      },
+      {
+        "type": "tempo_run",
+        "description": "Sustained effort just below race pace",
+        "tags": ["threshold", "endurance"]
+      },
+      {
+        "type": "long_run",
+        "description": "Extended duration run to build endurance",
+        "tags": ["long", "aerobic"]
+      },
+      {
+        "type": "hill_repeats",
+        "description": "Uphill runs with walk/jog back recovery",
+        "tags": ["strength", "speed"]
+      }
+    ],
+    "strength": [
+      {
+        "focus": "core",
+        "exercises": ["Plank", "Leg Raises", "Russian Twists"]
+      },
+      {
+        "focus": "lower_body",
+        "exercises": ["Squats", "Lunges", "Glute Bridges"]
+      },
+      {
+        "focus": "upper_body",
+        "exercises": ["Push-ups", "Rows", "Shoulder Press"]
+      },
+      {
+        "focus": "full_body",
+        "exercises": ["Burpees", "Kettlebell Swings", "Mountain Climbers"]
+      }
+    ]
+  }
+  
